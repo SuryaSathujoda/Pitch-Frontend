@@ -1,1 +1,4 @@
 # Pitch-Frontend
+
+## Libraries
+plotly
